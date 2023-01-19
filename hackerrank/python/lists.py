@@ -16,4 +16,8 @@ if __name__ == '__main__':
             else:
                 firstCom( int(command[1]), int(command[2]) )
 
+# My first thought for solving this problem was to make a bunch of if statements for each type of command
+# I decided to try a cleaner way and here is what I came up with. 
+# It can probably be done with one if statment just for print, or even none with some other way
+
 # Link to challenge: https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
